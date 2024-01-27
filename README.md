@@ -8,6 +8,6 @@ https://aliadanpro.github.io/Portfolio.github.io/
 * CSS
 * JavaScript
 ## Features
-The most unique feature is cross-platform. This website can work on both mobile and laptop/PC devices. It has smooth scrolling and hovering animations. It also has links to my social accounts.
+This website can work on both mobile and laptop/PC devices. It has smooth scrolling and hovering animations. It also has links to my social accounts.
 ## Customization
 The website can be easily modified as everything has been divided into multiple IDs and classes which enables the programmer to have more control and ease over the code.
